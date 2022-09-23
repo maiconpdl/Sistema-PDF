@@ -1,0 +1,25 @@
+﻿@model SimplePDF.Controllers.DividirController
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <script src="~/js/jquery-3.6.0.js" type="text/javascript"></script>
+        <script src="~/js/Juntar.js" type="text/javascript"></script>
+
+    </head>
+    <body>
+    
+        <form onload="botaoDownload()">
+            <div class="divDownload">
+                <a href="@Dividir.nomeArquivo" id="btnDownload" download="Arquivo"><input type="button" value="Baixar Arquivo" class="btnDownload"/></a>
+            </div>
+        </form>
+        <br/>
+        
+
+        @{
+        Dividir.nomeArquivo = "";
+        Dividir.nomeArquivo = "";
+    }
+    </body>
+</html>

@@ -1,0 +1,111 @@
+html {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 20px;
+    font-weight: 700;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background: rgb(16,21,224);
+    background: linear-gradient(90deg, rgba(16,21,224,1) 0%, rgba(102,181,235,1) 49%, rgba(30,224,251,1) 79%);
+}
+
+.navbar {
+    background-color: none;
+    color: #000000;
+    font-weight: 700;
+}
+
+.btnsInicio{
+   
+    margin-bottom:auto;
+    font-size: 20px;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-weight: 700;
+    background: #0087ff;
+    color: #ffffff;
+    text-decoration: none;
+    
+}
+
+    .btnsInicio:hover {
+        background: #00afd7;
+        border: solid;
+        border-color: #00afd7;
+    }
+.divMain {
+    margin-left: 240px;
+    margin-right: inherit;
+    text-align: center;
+}
+
+.divBotoes{
+    display: block;
+    border: hidden;
+    border-width: 10px;
+    border-radius:10%;
+    border-color: ;
+    width:200px;
+    height: 270px;
+    text-align: center;
+    font-size: 25px;
+    margin-left: 80px;
+    background-color: #ffffff;
+    opacity: 0.6;
+    color:  #000000;
+    font-weight: 700;
+}
+
+.divBtnDividir{
+    margin-top: 55px;
+}
+
+.divBtnJuntar {
+    margin-top: 20px;
+}
+
+
+
+.btnDownload {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    font-size: 20px;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-weight: 700;
+    background: #0087ff;
+    color: #ffffff;
+    text-decoration: none;
+    
+}
+
+.btnDownload:hover {
+        background: #00afd7;
+        border: solid;
+        border-color: #0087ff;
+}
+
+.divDownload{
+    text-align:center;
+    margin-top: 200px;
+}
+
+.inputDeAte{
+    width: 45px;
+    height:30px;
+}

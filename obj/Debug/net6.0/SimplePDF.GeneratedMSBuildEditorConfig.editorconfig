@@ -1,0 +1,64 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SimplePDF
+build_property.RootNamespace = SimplePDF
+build_property.ProjectDir = C:\Users\Saude02\Desktop\SimplePDF\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Saude02\Desktop\SimplePDF
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Saude02/Desktop/SimplePDF/Views/Dividir/DividirPDF.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGl2aWRpclxEaXZpZGlyUERGLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saude02/Desktop/SimplePDF/Views/Dividir/Download.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGl2aWRpclxEb3dubG9hZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saude02/Desktop/SimplePDF/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saude02/Desktop/SimplePDF/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saude02/Desktop/SimplePDF/Views/Juntar/Download.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVudGFyXERvd25sb2FkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saude02/Desktop/SimplePDF/Views/Juntar/Juntando.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVudGFyXEp1bnRhbmRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saude02/Desktop/SimplePDF/Views/Juntar/JuntarPDF.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVudGFyXEp1bnRhclBERi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saude02/Desktop/SimplePDF/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saude02/Desktop/SimplePDF/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saude02/Desktop/SimplePDF/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saude02/Desktop/SimplePDF/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Saude02/Desktop/SimplePDF/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-kqqzwvope4

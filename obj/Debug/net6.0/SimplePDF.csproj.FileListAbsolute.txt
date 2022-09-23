@@ -1,0 +1,184 @@
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/appsettings.json
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/SimplePDF.staticwebassets.runtime.json
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/SimplePDF.exe
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/SimplePDF.deps.json
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/SimplePDF.runtimeconfig.json
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/SimplePDF.dll
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/ref/SimplePDF.dll
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/SimplePDF.pdb
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/PdfSharp.Charting.dll
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/PdfSharp.dll
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/de/PdfSharp.Charting.resources.dll
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/de/PdfSharp.resources.dll
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/obj/Debug/net6.0/SimplePDF.csproj.AssemblyReference.cache
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/obj/Debug/net6.0/SimplePDF.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/obj/Debug/net6.0/SimplePDF.AssemblyInfoInputs.cache
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/obj/Debug/net6.0/SimplePDF.AssemblyInfo.cs
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/obj/Debug/net6.0/SimplePDF.csproj.CoreCompileInputs.cache
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/obj/Debug/net6.0/SimplePDF.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/obj/Debug/net6.0/SimplePDF.RazorAssemblyInfo.cache
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/obj/Debug/net6.0/SimplePDF.RazorAssemblyInfo.cs
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/obj/Debug/net6.0/scopedcss/bundle/SimplePDF.styles.css
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/obj/Debug/net6.0/scopedcss/projectbundle/SimplePDF.bundle.scp.css
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/obj/Debug/net6.0/SimplePDF.csproj.CopyComplete
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/obj/Debug/net6.0/SimplePDF.dll
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/obj/Debug/net6.0/ref/SimplePDF.dll
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/obj/Debug/net6.0/SimplePDF.pdb
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/obj/Debug/net6.0/SimplePDF.genruntimeconfig.cache
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/itext.barcodes.dll
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/itext.forms.dll
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/itext.io.dll
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/itext.kernel.dll
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/itext.layout.dll
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/itext.pdfa.dll
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/itext.sign.dll
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/itext.styledxmlparser.dll
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/itext.svg.dll
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/itext.commons.dll
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+C:/Users/Maicon/Desktop/Projetos/SimplePDF/SimplePDF/bin/Debug/net6.0/itextsharp.dll
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/appsettings.Development.json
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/appsettings.json
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/SimplePDF.staticwebassets.runtime.json
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/SimplePDF
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/SimplePDF.deps.json
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/SimplePDF.runtimeconfig.json
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/SimplePDF.dll
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/SimplePDF.pdb
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/itext.barcodes.dll
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/itext.forms.dll
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/itext.io.dll
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/itext.kernel.dll
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/itext.layout.dll
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/itext.pdfa.dll
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/itext.sign.dll
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/itext.styledxmlparser.dll
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/itext.svg.dll
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/itext.commons.dll
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/itextsharp.dll
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/Microsoft.DotNet.PlatformAbstractions.dll
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/PdfSharp.Charting.dll
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/PdfSharp.dll
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/de/PdfSharp.Charting.resources.dll
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/bin/Debug/net6.0/de/PdfSharp.resources.dll
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/obj/Debug/net6.0/SimplePDF.csproj.AssemblyReference.cache
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/obj/Debug/net6.0/SimplePDF.GeneratedMSBuildEditorConfig.editorconfig
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/obj/Debug/net6.0/SimplePDF.AssemblyInfoInputs.cache
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/obj/Debug/net6.0/SimplePDF.AssemblyInfo.cs
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/obj/Debug/net6.0/SimplePDF.csproj.CoreCompileInputs.cache
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/obj/Debug/net6.0/SimplePDF.MvcApplicationPartsAssemblyInfo.cache
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/obj/Debug/net6.0/SimplePDF.RazorAssemblyInfo.cache
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/obj/Debug/net6.0/SimplePDF.RazorAssemblyInfo.cs
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/obj/Debug/net6.0/staticwebassets.build.json
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/obj/Debug/net6.0/staticwebassets.development.json
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/obj/Debug/net6.0/scopedcss/bundle/SimplePDF.styles.css
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/obj/Debug/net6.0/scopedcss/projectbundle/SimplePDF.bundle.scp.css
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/obj/Debug/net6.0/SimplePDF.csproj.CopyComplete
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/obj/Debug/net6.0/SimplePDF.dll
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/obj/Debug/net6.0/refint/SimplePDF.dll
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/obj/Debug/net6.0/SimplePDF.pdb
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/obj/Debug/net6.0/SimplePDF.genruntimeconfig.cache
+/home/maicon/Documentos/Projetos/SimplePDF - Backup/SimplePDF/obj/Debug/net6.0/ref/SimplePDF.dll
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\appsettings.Development.json
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\appsettings.json
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\SimplePDF.staticwebassets.runtime.json
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\SimplePDF.exe
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\SimplePDF.deps.json
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\SimplePDF.runtimeconfig.json
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\SimplePDF.dll
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\SimplePDF.pdb
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\itext.barcodes.dll
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\itext.forms.dll
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\itext.io.dll
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\itext.kernel.dll
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\itext.layout.dll
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\itext.pdfa.dll
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\itext.sign.dll
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\itext.styledxmlparser.dll
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\itext.svg.dll
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\itext.commons.dll
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\itextsharp.dll
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\PdfSharp.Charting.dll
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\PdfSharp.dll
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\de\PdfSharp.Charting.resources.dll
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\de\PdfSharp.resources.dll
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.csproj.AssemblyReference.cache
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.GeneratedMSBuildEditorConfig.editorconfig
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.AssemblyInfoInputs.cache
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.AssemblyInfo.cs
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.csproj.CoreCompileInputs.cache
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.MvcApplicationPartsAssemblyInfo.cache
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.RazorAssemblyInfo.cache
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.RazorAssemblyInfo.cs
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\staticwebassets.build.json
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\staticwebassets.development.json
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\scopedcss\bundle\SimplePDF.styles.css
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\scopedcss\projectbundle\SimplePDF.bundle.scp.css
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.csproj.CopyComplete
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.dll
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\refint\SimplePDF.dll
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.pdb
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.genruntimeconfig.cache
+D:\SimplePDF\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\ref\SimplePDF.dll
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\appsettings.json
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\SimplePDF.staticwebassets.runtime.json
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\SimplePDF.exe
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\SimplePDF.deps.json
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\SimplePDF.runtimeconfig.json
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\SimplePDF.dll
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\SimplePDF.pdb
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\itext.barcodes.dll
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\itext.forms.dll
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\itext.io.dll
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\itext.kernel.dll
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\itext.layout.dll
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\itext.pdfa.dll
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\itext.sign.dll
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\itext.styledxmlparser.dll
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\itext.svg.dll
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\itext.commons.dll
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\itextsharp.dll
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\PdfSharp.Charting.dll
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\PdfSharp.dll
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\de\PdfSharp.Charting.resources.dll
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\bin\Debug\net6.0\de\PdfSharp.resources.dll
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.csproj.AssemblyReference.cache
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.AssemblyInfoInputs.cache
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.AssemblyInfo.cs
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.csproj.CoreCompileInputs.cache
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.RazorAssemblyInfo.cache
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.RazorAssemblyInfo.cs
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\scopedcss\bundle\SimplePDF.styles.css
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\scopedcss\projectbundle\SimplePDF.bundle.scp.css
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.csproj.CopyComplete
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.dll
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\refint\SimplePDF.dll
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.pdb
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\SimplePDF.genruntimeconfig.cache
+C:\Users\Saude02\Desktop\SimplePDF - Backup\SimplePDF\obj\Debug\net6.0\ref\SimplePDF.dll

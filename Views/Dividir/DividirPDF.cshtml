@@ -1,0 +1,38 @@
+﻿@model SimplePDF.Controllers.DividirController
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <meta @Dividir.dividindo content="0; url='/Dividir/Download'"/>
+        <script src="~/js/jquery-3.6.0.js" type="text/javascript"></script>
+        <link rel="stylesheet" href="~/css/Juntar.css" />
+    </head>
+    <body>
+        
+    <div style="width: 50px; height:50px;">
+
+        </div>
+
+        
+
+        <form id="form" method="post" enctype="multipart/form-data" asp-controller="Dividir" asp-action="DividirPDF">
+            
+            <div class="drop-zone">
+               
+                 <span class="drop-zone__prompt">Selecione o arquivo ou solte aqui</span>
+                 <input type="file" name="filesupload" class="drop-zone__input" accept="application/pdf"/>
+                 
+            </div>
+            <br />
+            <div>
+                 De: <input class="inputDeAte" type="text" name="pagInicio"/>
+                  Até: <input class="inputDeAte" type="text" name="pagFim"/>
+            </div>
+           <!-- <input type="file" name="filesupload1" multiple/> -->
+            <input type="submit" value="Dividir" class="btnsInicio" style="margin-top: 30px;"/>
+            <br />
+            <h2 style="color: red;">@ViewData["Message"]</h2>
+        </form>
+        <script src="~/js/Juntar.js" type="text/javascript"></script>
+    </body>
+</html>
